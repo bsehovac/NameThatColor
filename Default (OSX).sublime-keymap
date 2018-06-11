@@ -1,0 +1,3 @@
+[
+    { "keys": ["super+shift+c"], "command": "name_that_color" },
+]

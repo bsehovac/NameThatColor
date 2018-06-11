@@ -1,0 +1,12 @@
+[
+  {
+    "id": "tools",
+    "children": [
+      {
+        "id": "NameThatColor",
+        "caption": "Name That Color",
+        "command": "name_that_color"
+      }
+    ]
+  }
+]
