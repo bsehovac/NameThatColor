@@ -1,4 +1,4 @@
-# Name That Color
+# Name that Color
 
 A sublime text plugin implementation of [Name that Color](http://chir.ag/projects/name-that-color).
 
