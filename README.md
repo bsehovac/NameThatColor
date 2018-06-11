@@ -21,5 +21,9 @@ or
 - Select a block of CSS or single color.
 - Hit (⌘/Ctrl + ⇧ + C) to convert hex colors to Sass variables.
 
+## Demo
+
+![alt text](https://raw.githubusercontent.com/bsehovac/NameThatColor/master/demo.gif "Demo")
+
 ## Credits
 Based on [Chirag](http://chir.ag/) project [Name that Color](http://chir.ag/projects/name-that-color/).
